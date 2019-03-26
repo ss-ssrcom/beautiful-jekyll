@@ -1,10 +1,19 @@
-If you want to keep a secret, you must also hide it from yourself.
+---
+layout: post
+title: Shadowsocks是什么？
+subtitle: If you want to keep a secret, you must also hide it from yourself.
+gh-repo: daattali/beautiful-jekyll
+tags: [shadowsocks]
+comments: true
+---
+
+## If you want to keep a secret, you must also hide it from yourself.
 
 Shadowsocks官网: https://shadowsocks.org
 
 Shadowsocks官方GitHub: https://github.com/shadowsocks
 
-A secure socks5 proxy, designed to protect your Internet traffic.
+## A secure socks5 proxy, designed to protect your Internet traffic.
 
 ![](https://github.com/ss-ssrcom/ssrou/blob/master/img/blog/ss.png)
 
@@ -20,7 +29,7 @@ Shadowsocks是被设计来混淆数据，增加 墙 检查出流量特征所需�
 
 SS的作者多次强调过这一点—>Correct username/password auth model · Issue #169 · shadowsocks/shadowsocks · GitHub
 
-“我们不需要安全性。我们需要与随机字节无法区分。”
+## “我们不需要安全性。我们需要与随机字节无法区分。”
 
 再三强调不要忘记SS作者的本意——这是一个能帮你上谷歌，上被墙屏蔽的网站的工具，其意义是瞒过 墙 的实时流量检测，而不是瞒过 墙 后面的master minds。
 
