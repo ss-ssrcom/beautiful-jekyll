@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 安卓系统手机Android如何使用shadowsocks软件
+image: /img/blog/logo/android.png
 ---
 
 ## 安卓系统手机Android如何使用shadowsocks软件
