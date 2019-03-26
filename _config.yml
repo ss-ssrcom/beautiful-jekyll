@@ -23,12 +23,12 @@ description: 免費分享網路資訊與科技新知!
 
 # List of links in the navigation bar
 navbar-links:
-  首頁: "https://ssrou.com/"
+  首頁: "http://ssrou.com/"
   本站推薦:
     - Vultr服務器: "https://www.vultr.com/?ref=7533124"
     - SS/SSR服務器: "http://ss-ssr.com"
   免費帳號分享:
-    - SS/SSR: "https://free.ssrou.com/"
+    - SS/SSR: "http://free.ssrou.com/"
     - APPLE ID: "http://ios.ss-ssr.com/"    
   SS/SSR服務器: "http://ss-ssr.com/"
   公開群組: "https://t.me/freessssr"
