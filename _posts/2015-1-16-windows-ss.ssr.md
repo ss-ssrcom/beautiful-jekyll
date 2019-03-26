@@ -11,7 +11,15 @@ comments: true
 
 1、首先下载最新版 Shadowsocks Windows 或者【shadowsocks-win：GitHub】。
 
+[Shadowsocks Windows](https://github.com/shadowsocks/shadowsocks-windows/releases/download/4.1.2/Shadowsocks-4.1.2.zip)
+
+[shadowsocks-win：GitHub](https://github.com/shadowsocks/shadowsocks-windows/releases)
+
 2、需要安装 .NET Framework 4.6.2 和 Microsoft Visual C++ 2015 Redistributable (x86)   【一般电脑均已安装，可省略此步骤】。
+
+[.NET Framework 4.6.2](https://www.microsoft.com/zh-CN/download/details.aspx?id=53344)
+
+[Microsoft Visual C++ 2015 Redistributable (x86)](https://www.microsoft.com/en-us/download/details.aspx?id=53840)
 
 二、基本使用
 
