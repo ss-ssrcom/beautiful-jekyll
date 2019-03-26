@@ -13,7 +13,9 @@ title: 安卓系统手机Android如何使用shadowsocks软件
 
 [Github](https://github.com/shadowsocks/shadowsocks-android/releases)
 
-[Google Play 需翻墙](https://play.google.com/store/apps/details?id=com.github.shadowsocks)
+![Google Play](https://raw.githubusercontent.com/ss-ssrcom/ssrou/master/img/blog/androidss.png)
+
+[Google Play 需翻墙](https://play.google.com/store/apps/details?id=com.github.shadowsocks) 
 
 ### 二、使用
 
