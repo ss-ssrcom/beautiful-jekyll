@@ -1,74 +1,72 @@
 ---
 layout: post
-title: Test markdown
-subtitle: Each post also has a subtitle
+title: 全网最全SS/ShadowsocksR科学上网免费帐号分享
+subtitle: 世界那么大，我想去看看！
 gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
+tags: [ss/ssr]
 comments: true
 ---
 
-You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+香港/台湾/日本/新加坡/印度/美国最新SS/ShadowsocksR科学上网免费帐号分享
 
-**Here is some bold text**
+扫码添加账号  不定时更换密码
 
-## Here is a secondary heading
+更新时间(UTC/GMT):  2019/03/  11:00:00
 
-Here's a useless table:
+————购买稳定服务器————
 
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+禁止使用免费账号进行黑客攻击，BT下载，滥发垃圾邮件。
+
+免费账号限制设备数 200个，并限速！所以遇到时能用时不能用，那么可能是设备数限制满了。
+
+请大家珍惜使用这些免费账号，支持本站请选择付费稳定服务器!。
+
+[table id=3 /]
+
+[二维码] 列中，按钮 SS 显示的是 原版SS二维码(可使用 SS/SSR客户端)，而按钮 SSR 显示的是 SSR二维码(必须使用 SSR客户端)。
+
+ AD广告：感谢Free SS/ShadowsocksR Server支持
+
+免费账号仅适合临时使用，如需更稳定、快速的账号，请选择付费稳定服务器!
 
 
-How about a yummy crepe?
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+如果你喜歡這裡，歡迎加入[科學上網指南SSROU.COM]的電報公開群組
 
-Here's a code chunk:
+Telegram 群組 | Telegram 頻道 | Telegram 溝通
 
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
+注意事項
 
-And here is the same code with syntax highlighting:
+不得使用BT，eMule，迅雷，FlashGet，Tor等P2P工具下載非法和國家禁止的互聯網資訊內容。
 
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
+不得長期大流量掛機下載使用。
 
-And here is the same code yet again but with line numbers:
+不得用於“註冊機/發貼機/垃圾郵件/群發外鏈/黑帽SEO/網絡攻擊/網絡詐騙”等用途。
 
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
+不得下載或傳播侵犯智慧財產權相關內容。
 
-## Boxes
-You can add notification, warning and error boxes like this:
+不得發佈任何非法、威脅、誹謗、反動、淫穢、色情資訊或其它違法資訊。
 
-### Notification
+不得利用本系統可能存在漏洞以各種形式為自己及他人牟利。
 
-{: .box-note}
-**Note:** This is a notification box.
+不散佈電子郵件廣告、垃圾郵件（SPAM）：不利用本平臺提供的服務散發大量不受歡迎的或者未經請求的電子郵件、電子廣告或包含反動、色情等有害資訊的電子郵件。
 
-### Warning
+不利用本平臺提供的服務上傳、下載、發佈如下資訊或者內容，不為他人發佈該等資訊提供任何便利。
 
-{: .box-warning}
-**Warning:** This is a warning box.
+違反國家規定的政治文宣或新聞資訊。
 
-### Error
+涉及國家秘密或安全的資訊。
 
-{: .box-error}
-**Error:** This is an error box.
+封建迷信或淫穢、色情、下流的資訊或教唆犯罪的資訊。
+
+違反國家民族和宗教政策的資訊。
+
+妨礙互聯網運行安全的資訊。
+
+侵害他人合法權益的資訊或其他有損於社會秩序、社會治安、公共道德的資訊或內容。
+
+其他違反法律法規、部門規章或國家政策的內容。
+
+不進行任何破壞或試圖破壞網路安全的行為（包括釣魚，駭客，網絡詐騙等）。
+
+
