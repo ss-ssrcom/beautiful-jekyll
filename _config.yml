@@ -23,7 +23,7 @@ description: 免費分享網路資訊與科技新知!
 
 # List of links in the navigation bar
 navbar-links:
-  本站推薦：
+  本站推薦:
     - Vultr服務器: "https://www.vultr.com/?ref=7533124"
     - SS/SSR服務器: "http://ss-ssr.com"
   免費帳號分享:
