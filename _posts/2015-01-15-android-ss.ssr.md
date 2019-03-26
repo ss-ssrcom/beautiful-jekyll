@@ -9,11 +9,11 @@ title: 安卓系统手机Android如何使用shadowsocks软件
 
 1、首先手机直接下载Shadowsocks Android软件 [Github] 或者 Google Play下载：
 
-https://github.com/shadowsocks/shadowsocks-android/releases
+[Shadowsocks Android](https://github.com/shadowsocks/shadowsocks-android/releases/download/v4.6.1/shadowsocks--universal-4.6.1.apk)
 
-https://github.com/shadowsocks/shadowsocks-android/releases/download/v4.6.1/shadowsocks--universal-4.6.1.apk
+[Github](https://github.com/shadowsocks/shadowsocks-android/releases)
 
-https://play.google.com/store/apps/details?id=com.github.shadowsocks
+[Google Play 需翻墙](https://play.google.com/store/apps/details?id=com.github.shadowsocks)
 
 ### 二、使用
 
