@@ -1,42 +1,30 @@
 ---
 layout: post
-title: To be
-subtitle: ... or not to be?
-tags: [books, shakespeare, test]
+title: 如何远程连接Linux服务器
+subtitle: 世界这么大
+tags: [Linux]
 ---
 
-To be, or not to be--that is the question:
-Whether 'tis nobler in the mind to suffer
-The slings and arrows of outrageous fortune
-Or to take arms against a sea of troubles
-And by opposing end them. To die, to sleep--
-No more--and by a sleep to say we end
-The heartache, and the thousand natural shocks
-That flesh is heir to. 'Tis a consummation
-Devoutly to be wished. To die, to sleep--
-To sleep--perchance to dream: ay, there's the rub,
-For in that sleep of death what dreams may come
-When we have shuffled off this mortal coil,
-Must give us pause. There's the respect
-That makes calamity of so long life.
-For who would bear the whips and scorns of time,
-Th' oppressor's wrong, the proud man's contumely
-The pangs of despised love, the law's delay,
-The insolence of office, and the spurns
-That patient merit of th' unworthy takes,
-When he himself might his quietus make
-With a bare bodkin? Who would fardels bear,
-To grunt and sweat under a weary life,
-But that the dread of something after death,
-The undiscovered country, from whose bourn
-No traveller returns, puzzles the will,
-And makes us rather bear those ills we have
-Than fly to others that we know not of?
-Thus conscience does make cowards of us all,
-And thus the native hue of resolution
-Is sicklied o'er with the pale cast of thought,
-And enterprise of great pitch and moment
-With this regard their currents turn awry
-And lose the name of action. -- Soft you now,
-The fair Ophelia! -- Nymph, in thy orisons
-Be all my sins remembered.
+如果你本地电脑使用的是 Windows 系统，那我推荐你下载一个叫 Git Bash 的软件来远程连接你的Linux服务器。
+
+官方免费下载地址：https://git-scm.com/downloads
+
+![](https://raw.githubusercontent.com/ss-ssrcom/ssrou/master/img/blog/git1.png)
+
+如果你是 Linux 或者 MacOS 用户，请忽略上面的软件。
+
+直接打开终端（Terminal），输入 ssh root@ip 其中 ip 替换成你服务器的 IPv4 地址, 按回车键，然后复制粘贴密码，按回车键即可登录。
+
+粘贴密码时不显示密码，但不影响。
+
+在开始登陆服务器之前，我们先打开命令行ping一下自己服务器上的IP地址是否能ping通（运行—CMD—ping ip）。
+
+ping通后接着打开 git bash 软件，输入 ssh root@你的服务器ip地址，你就可以成功登陆你的服务器了！
+
+补充：怎么修改Vultr服务器 root 用户密码？
+
+先通过命令行连接上服务器，然后使用命令：passwd root
+
+然后根据提示输入新的密码。
+
+修改完成之后立即生效(请谨慎操作)，断开服务器，下次再连接服务器就需要输入修改后的新密码了。
