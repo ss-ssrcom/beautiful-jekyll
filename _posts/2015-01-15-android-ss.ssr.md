@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 安卓系统手机Android如何使用shadowsocks软件
-image: /img/blog/logo/android.png
+image: 
 ---
 
 ## 安卓系统手机Android如何使用shadowsocks软件
@@ -21,3 +21,5 @@ image: /img/blog/logo/android.png
 ### 二、使用
 
 1、依次操作： 配置文件 -> 扫描二维码 -> 扫描 我的套餐 中服务器节点的二维码 -> 连接。
+
+![](https://raw.githubusercontent.com/ss-ssrcom/ssrou/master/img/blog/logo/android.png)
