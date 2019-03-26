@@ -23,13 +23,12 @@ description: 免費分享網路資訊與科技新知!
 
 # List of links in the navigation bar
 navbar-links:
-  首頁: "#"  
   本站推薦：
     - Vultr服務器: "https://www.vultr.com/?ref=7533124"
     - SS/SSR服務器: "http://ss-ssr.com"
   免費帳號分享:
-    - SS/SSR: "http://"
-    - APPLE ID: "http://"    
+    - SS/SSR: "https://ssrou.com/ss.ssr"
+    - APPLE ID: "https://ssrou.com/appleid.ssr"    
   SS/SSR服務器: "http://ss-ssr.com/"
   關於本站: "about"
 
