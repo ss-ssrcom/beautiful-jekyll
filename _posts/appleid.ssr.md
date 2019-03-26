@@ -2,6 +2,7 @@
 layout: post
 title: 免费分享美国/日本/香港苹果AppStore id 账号
 image: /img/hello_world.jpeg
+published: true
 ---
 
 2018 年中国区苹果将 iCloud 服务器迁移到云上贵州，导致海外地区的 APP 无法下载打开。
@@ -15,8 +16,6 @@ image: /img/hello_world.jpeg
 已购买小火箭等付费软件，App Store 搜索shadowrocket即可下载。
 
 在线安装请访问：http://ios.ss-ssr.com/
-
-
 
 若被锁，请在此页留言或者加我电报Telegram 溝通，我会及时解锁！
 
