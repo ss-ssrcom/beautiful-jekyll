@@ -1,3 +1,12 @@
+---
+layout: post
+title: 微软桌面Windows如何使用shadowsocks软件
+subtitle: 世界那么大，我想去看看！
+gh-repo: daattali/beautiful-jekyll
+tags: [shadowsocks]
+comments: true
+---
+
 一、下载
 
 1、首先下载最新版 Shadowsocks Windows 或者【shadowsocks-win：GitHub】。
